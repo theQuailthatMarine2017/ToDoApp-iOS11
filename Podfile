@@ -7,5 +7,7 @@ target 'ToDoApp' do
 
   # Pods for ToDoApp
     pod 'ChameleonFramework'
+    pod 'RealmSwift'
+    pod 'SwipeCellKit'
 
 end
